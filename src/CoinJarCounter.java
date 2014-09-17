@@ -1,6 +1,7 @@
 /**
  * Specification: Write a program that determines the value of the coins in a jar and prints the total 
  * in dollars and scents. Read integer values that represent the number of quarters,dimes, nickels and pennies.
+ * 
  * @author MerfZeroOne
  */
 import java.util.Scanner;
