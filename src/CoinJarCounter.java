@@ -34,7 +34,7 @@ public class CoinJarCounter {
 			 * solution: taking scanned values and multiplying them by the
 			 * currency values, totaling them afterwards.
 			 */
-			System.out.println("Welcome to the coin counter!");
+			System.out.println("Welcome to the coin counter, user!");
 			System.out.println("Enter the amount of quarters :");
 			numQuarters = scan1.nextInt();
 			quarterTotal = (numQuarters * .25);
